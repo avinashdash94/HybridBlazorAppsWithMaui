@@ -1,4 +1,5 @@
-﻿using CoffeeBrowser.Maui.Data;
+﻿using CoffeeBrowser.Library.Data;
+using CoffeeBrowser.Maui.Data;
 using Microsoft.Extensions.Logging;
 
 namespace CoffeeBrowser.Maui
